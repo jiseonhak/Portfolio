@@ -37,9 +37,7 @@
 
 \- 사용자 별 2차인증 정책 관리 기능 구현
 
-![image-20191213192927241](C:\Users\ji\Desktop\Portfolio\image-20191213192927241.png)
-
- 
+![OTPManage_QR등록](C:\Users\ji\Desktop\Portfolio\OTPManage_QR등록.JPG)
 
 •     **서명수집분석시스템**
 
