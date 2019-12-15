@@ -1,9 +1,91 @@
-# Portfolio
+# 포트폴리오(Portfolio)
 **개인 프로젝트**
 
+- **Vue.js를 이용한 웹앱 버거버거(BurgerBurger)**
+
+  -수행역할 : 아이디어 제안, 설계, 개발
+
+  -사용기술 : 
+
+    1) BackEnd : Spring Boot 2.1.7, Java 1.8
+
+    2) Front End : Vue.js, Vuetify
+
+    3) DB : firebase firestore
+
+    4) library : selenium
+
+    5) Server Env : GCP(GoogleCloudPlatform)
+
+  -selenium을 이용한 브랜드 별 홈페이지 가격정보 크롤링
+
+  -크롤링 data firestore에 저장
+
+  -브랜드 별 카테고리, 제품 조회 RestAPI 구현
+
+  -vuetify를 이용한 제품 조회 웹 앱 페이지 구현
 
 
 
+- **하이브리드 앱 잊지말아요 그약**
+
+  -수행역할 : 기획 및 개발
+
+  -사용기술:
+
+  ​	1) Framwork : 아이오닉(ionic)2
+
+  ​	2) 언어 : Typescript, Angular js
+
+  ​	3) DB : Device Storage
+
+  -처방전, 알람 정보 Storage 저장
+
+  -처방전 목록 조회
+
+  -구글 플레이 스토어 출시
+
+
+
+- **빅데이터 기반의 처방 스케줄링 서비스**
+
+  (트랜드 x 메디컬 2016 해커톤 수상)
+
+  -수행역할 : 기획 및 개발
+
+  -사용기술 :
+
+  ​	1) BackEnd : 전자정보프레임워크
+
+  ​	2) Front End : Angular js, html5
+
+  ​	3) DB : MySql
+
+  ​	4) library : google vision API 
+
+  -이미지 파일 테스트 변환
+
+  -처방약 코드를 이용한 유사 처방 환자 조회 
+
+  -처방약 이상치 분석 시각화
+
+
+
+- **하이브리드 분석 기반의 기계 학습을 활용한 랜섬웨어 탐지 모델제안**
+
+  -수행역할 : 연구 및 개발 
+
+  -사용기술 : 
+
+  ​	1) BackEnd : R, Python(numpy)
+
+  -악성코드 분석 관련 논문 연구 
+
+  -머신러닝 알고리즘 연구 
+
+  -데이터 필터링 프로그램 구현 
+
+  -Logistic Regression 모델링 프로그램 구현
 
 
 
@@ -15,7 +97,7 @@
 
 •     **OTP** **인증 관리 콘솔 구현**
 
-\- 수행역할(기여도): 개발(90%)
+-수행역할(기여도): 개발(90%)
 
 \- 사용기술: 
 
@@ -49,25 +131,25 @@
 
 •     **서명수집분석시스템**
 
-\- 수행역할(기여도): 개발 및 서버 구축(70%)
+​	-수행역할(기여도): 개발 및 서버 구축(70%)
 
-\- 사용기술: 
+​	-사용기술: 
 
-​	 1) BackEnd: JAVA 1.7, Spring Framework 3.2.8
+​	 	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8
 
-​	 2) Front End: Html, javascript, jQuery, Bootstrap
+​	 	2) Front End: Html, javascript, jQuery, Bootstrap
 
-​	 3) DB: mysql
+​	 	3) DB: mysql
 
-\- 앱/태블릿 서명 로그 수집 restful API 구현
+​	-앱/태블릿 서명 로그 수집 restful API 구현
 
-\- 서명 데이터 배속 조절, 반복 재생 기능 구현(HTML5 Canvas)
+​	-서명 데이터 배속 조절, 반복 재생 기능 구현(HTML5 Canvas)
 
-\- 서명 딥러닝 학습을 위한 데이터 셋 DB 스키마 설계 
+​	-서명 딥러닝 학습을 위한 데이터 셋 DB 스키마 설계 
 
-\- 서명 수집 프로파일 관리 기능 구현(CRUD)
+​	-서명 수집 프로파일 관리 기능 구현(CRUD)
 
-\- 서명 길이, 시간, 획수 조회 기능 구현(서명raw데이터)
+​	-서명 길이, 시간, 획수 조회 기능 구현(서명raw데이터)
 
 
 
