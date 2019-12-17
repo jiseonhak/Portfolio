@@ -157,9 +157,9 @@
 
 -수행역할(기여도): 개발(90%)
 
-\- 사용기술: 
+- 사용기술: 
 
- 	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8, xzing
+​  1) BackEnd: JAVA 1.7, Spring Framework 3.2.8, xzing
 
 ​	 2) Front End: Html, javascript, jQuery, Bootstrap
 
