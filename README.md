@@ -24,6 +24,8 @@
   -브랜드 별 카테고리, 제품 조회 RestAPI 구현
 
   -vuetify를 이용한 제품 조회 웹 앱 페이지 구현
+  
+  
 
 
 
@@ -86,6 +88,8 @@
   -데이터 필터링 프로그램 구현 
 
   -Logistic Regression 모델링 프로그램 구현
+  
+  <img src="https://lh3.googleusercontent.com/cfSsYn_6YU6NySZ0qWe8tcniO0P9y5bZ50MF8UKnieqAGFty432sk6BwzBAZs56_HkPioabaOyRfoa0b-51xqtR8vU70PZ_WT44UPk3o-ObuDXFpMyy5ou7n_9sw_Al25D4jFB7XTjM" alt="img" style="zoom:70%;" /><img src="https://lh6.googleusercontent.com/1ib_SMDqpwdPscqhxioZswspE2hZToljYzAPVTwx3lmiVodfSvRdVEm_o9k9be-ZwwtJtzSHoPa8d4GYLvXgRw-pFlOpvEy3Y5g9fFhrD6Xp6PSkhu2mqILEmuhperJkhyCLLfUL7Ms" alt="img" style="zoom:50%;" /><img src="https://lh5.googleusercontent.com/GuwHjQ-JkHAP2Yr5Z6H-8ofQObevFwAxPU3o1cHspcHXpmpnl0VLrFc85C38ENX0uBRbWFc_DoxGRLGgaBacdGkvOTddkprVsRTmMhlh00ec_bdo8x4u0ff489IlNoEa1x2X8S9ge6w" alt="img" style="zoom:33%;" />
 
 
 
@@ -93,7 +97,61 @@
 
 **- 보안솔루션 인증팀 (2017.01 - 현재)**
 
- 
+•     **전자문서 계약 데모사이트**
+
+-수행역할(기여도): 개발(100%)
+
+-사용기술:
+
+  1) BackEnd: JAVA 1.7, Spring Framework 4.0, iText
+
+  2) FrontEnd : javascript, PdfObject, Bootstrap
+
+-서명 인증 솔루션과 연동(서명분석시스템)
+
+-iText를 이용한 전자계약문서 PDF 파일 생성 
+
+-Bootstrap를 이용한 화면 구성
+
+-계약자 정보를 이용한 서명 인증
+
+<img src="C:\Users\ji\Desktop\Portfolio\image\DocuSignDemo01.JPG" alt="DocuSignDemo01" style="zoom: 50%;" />
+
+<img src="C:\Users\ji\Desktop\Portfolio\image\DocuSignDemo02.JPG" alt="DocuSignDemo02" style="zoom:50%;" />
+
+<img src="C:\Users\ji\Desktop\Portfolio\image\DocuSignDemo03.JPG" alt="DocuSignDemo03" style="zoom:50%;" />
+
+
+
+•     **서명 분석 시스템**
+
+-수행역할(기여도): 개발(90%)
+
+-사용기술:
+
+​	1) BackEnd : Spring Framework 3.2.8
+
+​	2) FrontEnd : Javascript, Bootstrap
+
+​	3) DB: mysql
+
+-서명인증API 설계 및 구현
+
+-JNI를 이용한 인증 라이브러리 연동
+
+-서명 인증 로그 데이터 시각화(Highcharts)
+
+-서명 재생, 다시재생, 반복재생, 일시중지 기능 
+
+-서명 인증 분석 데이터 시각화
+
+<img src="C:\Users\ji\Desktop\Portfolio\image\서명분석시스템01.JPG" alt="서명분석시스템01" style="zoom:50%;" />
+
+ <img src="C:\Users\ji\Desktop\Portfolio\image\서명분석시스템02.JPG" alt="서명분석시스템02" style="zoom:50%;" />
+
+<img src="C:\Users\ji\Desktop\Portfolio\image\서명분석시스템03.JPG" alt="서명분석시스템03" style="zoom:70%;" />
+
+
 
 •     **OTP** **인증 관리 콘솔 구현**
 
@@ -119,11 +177,9 @@
 
 \- 사용자 별 2차인증 정책 관리 기능 구현
 
-![OTPManage_QR등록.JPG](image/OTPManage_QR등록.JPG)
+<img src="image/OTPManage_QR등록.JPG" alt="OTPManage_QR등록.JPG" style="zoom:50%;" />
 
-
-
-
+<img src="C:\Users\ji\Desktop\Portfolio\image\OTPManage_사용자관리.JPG" alt="OTPManage_사용자관리" style="zoom:50%;" />
 
 
 
