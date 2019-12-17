@@ -159,11 +159,11 @@
 
 \- 사용기술: 
 
- 	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8, xzing
+​	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8, xzing
 
-​	 2) Front End: Html, javascript, jQuery, Bootstrap
+​	2) Front End: Html, javascript, jQuery, Bootstrap
 
-​	 3) DB: mysql, oracle, tibero
+​	3) DB: mysql, oracle, tibero
 
 \- 사이트에서 필요한 DB vendor 별 쿼리 작성(MyBatis)
 
