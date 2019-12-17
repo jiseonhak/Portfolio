@@ -6,28 +6,25 @@
   -수행역할 : 아이디어 제안, 설계, 개발
 
   -사용기술 : 
-
-    1) BackEnd : Spring Boot 2.1.7, Java 1.8
-
-    2) Front End : Vue.js, Vuetify
-
-    3) DB : firebase firestore
-
-    4) library : selenium
-
-    5) Server Env : GCP(GoogleCloudPlatform)
-
-  -selenium을 이용한 브랜드 별 홈페이지 가격정보 크롤링
-
-  -크롤링 data firestore에 저장
-
-  -브랜드 별 카테고리, 제품 조회 RestAPI 구현
-
-  -vuetify를 이용한 제품 조회 웹 앱 페이지 구현
+	1) BackEnd : Spring Boot 2.1.7, Java 1.8
+  	2) Front End : Vue.js, Vuetify
+	3) DB : firebase firestore
+  	4) library : selenium
+	5) Server Env : GCP(GoogleCloudPlatform)
   
+-selenium을 이용한 브랜드 별 홈페이지 가격정보 크롤링
   
+-크롤링 data firestore에 저장
+  
+-브랜드 별 카테고리, 제품 조회 RestAPI 구현
+  
+-vuetify를 이용한 제품 조회 웹 앱 페이지 구현
+  
+<img src="https://lh3.googleusercontent.com/gDvEbz0e7_tDkmZubHzZpxFXqFBzxLfXNf68s8rbOR_JAK0AC1jsbab9O0ZACS6f9C_T1Wpxmm618o_XrgSQvZ9xiObUzHU9-k8yzRvjAzQ5o39pj5o-EjGHhtfFN4Vsp3Lj7-hFBKI" alt="img" style="zoom:50%;" />
 
+<img src="https://lh5.googleusercontent.com/GTRoVNdw8Pd01k-u8VT5Ko2j2Y1Auu4OpgLXYfe-kuEIdeQ4J9HDpmTo8vU5hZ7PEAJEgxvd4tvAWGvdgs5qQXl_ifaYy-GaWQnnF-h6-uSO0NXZU_213VBjROJV6O9QLMyQJH8blws" alt="img" style="zoom:50%;" />
 
+<img src="https://lh3.googleusercontent.com/kcyC55rSzk2_1AVVhmdJdPmBS35MpVDPCMdzHMGM_KjAGUwI7EVoPbm8cpnu1hHw1uYpu51fyzYeX68RqjafJHrnSZrff8qo-_pHcAeteNDKKbWPqM52z5M9RkHemHwmHSBsbeW8DlE" alt="img" style="zoom:50%;" />
 
 - **하이브리드 앱 잊지말아요 그약**
 
