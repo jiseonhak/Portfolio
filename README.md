@@ -115,11 +115,11 @@
 
 -계약자 정보를 이용한 서명 인증
 
-<img src="C:\Users\ji\Desktop\Portfolio\image\DocuSignDemo01.JPG" alt="DocuSignDemo01" style="zoom: 50%;" />
+<img src="image/DocuSignDemo01.JPG" alt="DocuSignDemo01" style="zoom: 50%;" />
 
-<img src="C:\Users\ji\Desktop\Portfolio\image\DocuSignDemo02.JPG" alt="DocuSignDemo02" style="zoom:50%;" />
+<img src="image/DocuSignDemo02.JPG" alt="DocuSignDemo02" style="zoom:50%;" />
 
-<img src="C:\Users\ji\Desktop\Portfolio\image\DocuSignDemo03.JPG" alt="DocuSignDemo03" style="zoom:50%;" />
+<img src="image/DocuSignDemo03.JPG" alt="DocuSignDemo03" style="zoom:50%;" />
 
 
 
@@ -145,11 +145,11 @@
 
 -서명 인증 분석 데이터 시각화
 
-<img src="C:\Users\ji\Desktop\Portfolio\image\서명분석시스템01.JPG" alt="서명분석시스템01" style="zoom:50%;" />
+<img src="image/서명분석시스템01.JPG" alt="서명분석시스템01" style="zoom:50%;" />
 
- <img src="C:\Users\ji\Desktop\Portfolio\image\서명분석시스템02.JPG" alt="서명분석시스템02" style="zoom:50%;" />
+ <img src="image/서명분석시스템02.JPG" alt="서명분석시스템02" style="zoom:50%;" />
 
-<img src="C:\Users\ji\Desktop\Portfolio\image\서명분석시스템03.JPG" alt="서명분석시스템03" style="zoom:70%;" />
+<img src="image/서명분석시스템03.JPG" alt="서명분석시스템03" style="zoom:70%;" />
 
 
 
@@ -179,7 +179,7 @@
 
 <img src="image/OTPManage_QR등록.JPG" alt="OTPManage_QR등록.JPG" style="zoom:50%;" />
 
-<img src="C:\Users\ji\Desktop\Portfolio\image\OTPManage_사용자관리.JPG" alt="OTPManage_사용자관리" style="zoom:50%;" />
+<img src="image/OTPManage_사용자관리.JPG" alt="OTPManage_사용자관리" style="zoom:50%;" />
 
 
 
