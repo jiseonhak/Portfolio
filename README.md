@@ -1,35 +1,35 @@
 # 포트폴리오(Portfolio)
+
+
+
 **개인 프로젝트**
+
+---
 
 - **Vue.js를 이용한 웹앱 버거버거(BurgerBurger)**
 
   -수행역할 : 아이디어 제안, 설계, 개발
 
   -사용기술 : 
-  
-  ​	1)BackEnd : Spring Boot 2.1.7, Java 1.8
-  
-  ​	2) Front End : Vue.js, Vuetify
-  
-  ​	3) DB : firebase firestore
-  
-  ​	4) library : selenium
-  
-  ​	5) Server Env : GCP(GoogleCloudPlatform)
-  
+	1) BackEnd : Spring Boot 2.1.7, Java 1.8
+  	2) Front End : Vue.js, Vuetify
+	3) DB : firebase firestore
+  	4) library : selenium
+	5) Server Env : GCP(GoogleCloudPlatform)
+
 -selenium을 이용한 브랜드 별 홈페이지 가격정보 크롤링
-  
+
 -크롤링 data firestore에 저장
-  
+
 -브랜드 별 카테고리, 제품 조회 RestAPI 구현
-  
+
 -vuetify를 이용한 제품 조회 웹 앱 페이지 구현
-  
-<img src="https://lh3.googleusercontent.com/gDvEbz0e7_tDkmZubHzZpxFXqFBzxLfXNf68s8rbOR_JAK0AC1jsbab9O0ZACS6f9C_T1Wpxmm618o_XrgSQvZ9xiObUzHU9-k8yzRvjAzQ5o39pj5o-EjGHhtfFN4Vsp3Lj7-hFBKI" alt="img" style="zoom:50%;" />
 
-<img src="https://lh5.googleusercontent.com/GTRoVNdw8Pd01k-u8VT5Ko2j2Y1Auu4OpgLXYfe-kuEIdeQ4J9HDpmTo8vU5hZ7PEAJEgxvd4tvAWGvdgs5qQXl_ifaYy-GaWQnnF-h6-uSO0NXZU_213VBjROJV6O9QLMyQJH8blws" alt="img" style="zoom:50%;" />
+<img src="https://lh3.googleusercontent.com/gDvEbz0e7_tDkmZubHzZpxFXqFBzxLfXNf68s8rbOR_JAK0AC1jsbab9O0ZACS6f9C_T1Wpxmm618o_XrgSQvZ9xiObUzHU9-k8yzRvjAzQ5o39pj5o-EjGHhtfFN4Vsp3Lj7-hFBKI" alt="img" style="zoom:20%;" />
 
-<img src="https://lh3.googleusercontent.com/kcyC55rSzk2_1AVVhmdJdPmBS35MpVDPCMdzHMGM_KjAGUwI7EVoPbm8cpnu1hHw1uYpu51fyzYeX68RqjafJHrnSZrff8qo-_pHcAeteNDKKbWPqM52z5M9RkHemHwmHSBsbeW8DlE" alt="img" style="zoom:50%;" />
+<img src="https://lh5.googleusercontent.com/GTRoVNdw8Pd01k-u8VT5Ko2j2Y1Auu4OpgLXYfe-kuEIdeQ4J9HDpmTo8vU5hZ7PEAJEgxvd4tvAWGvdgs5qQXl_ifaYy-GaWQnnF-h6-uSO0NXZU_213VBjROJV6O9QLMyQJH8blws" alt="img" style="zoom:20%;" />
+
+<img src="https://lh3.googleusercontent.com/kcyC55rSzk2_1AVVhmdJdPmBS35MpVDPCMdzHMGM_KjAGUwI7EVoPbm8cpnu1hHw1uYpu51fyzYeX68RqjafJHrnSZrff8qo-_pHcAeteNDKKbWPqM52z5M9RkHemHwmHSBsbeW8DlE" alt="img" style="zoom:20%;" />
 
 - **하이브리드 앱 잊지말아요 그약**
 
@@ -97,7 +97,35 @@
 
 **회사 프로젝트**
 
+---
+
 **- 보안솔루션 인증팀 (2017.01 - 현재)**
+
+
+
+•     **서명수집분석시스템**
+
+​	-수행역할(기여도): 개발 및 서버 구축(70%)
+
+​	-사용기술: 
+
+​	 	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8
+
+​	 	2) Front End: Html, javascript, jQuery, Bootstrap
+
+​	 	3) DB: mysql
+
+​	-앱/태블릿 서명 로그 수집 restful API 구현
+
+​	-서명 데이터 배속 조절, 반복 재생 기능 구현(HTML5 Canvas)
+
+​	-서명 딥러닝 학습을 위한 데이터 셋 DB 스키마 설계 
+
+​	-서명 수집 프로파일 관리 기능 구현(CRUD)
+
+​	-서명 길이, 시간, 획수 조회 기능 구현(서명raw데이터)
+
+
 
 •     **전자문서 계약 데모사이트**
 
@@ -122,6 +150,82 @@
 <img src="image/DocuSignDemo02.JPG" alt="DocuSignDemo02" style="zoom:50%;" />
 
 <img src="image/DocuSignDemo03.JPG" alt="DocuSignDemo03" style="zoom:50%;" />
+
+
+
+•    **조달정보시스템 노후장비 교체 및 운영환경 개선사업** 
+ (스마트 나라장터 인증 강화를 위한 수기서명 SW도입)
+
+\-   수행역할(기여도): 개발 및 서버 구축(70%)
+
+\-   기간: 2018.01 ~ 현재
+
+\- 사용기술:
+
+​	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8
+
+​	2) Front End: jQuery, Bootstrap
+
+​	3) DB: mysql
+
+\- 인증 로그 수집 restful API 구현
+
+\- 인증 로그 통계 페이지 대시보드 구현
+
+\- 등록 사용자 조회 페이지 구현(CRUD)
+
+\- 인증 로그 조회 및 검색 페이지 구현
+
+\- WAS(Tomcat) 서버 구축 및 웹 서버(Iplanet) 연동 (RedHat환경)      
+
+![pps](image\pps.jpg)
+
+•    **외교부 웹메일 시스템 2차 인층체계 구축 사업 참여**
+
+\-   수행역할(기여도): 개발 및 구축(40%)
+
+\-   기간: 2017.07 ~ 현재
+
+\- 사용기술:
+
+​	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8
+
+​	2) Front End: jQuery, Bootstrap
+
+​	3) DB: mysql 
+
+\- 인증 로그 조회 페이지 구현
+
+\- 외교부 인사 VIEW를 통한 조직, 사용자 조회 페이지 구현
+ (외교부 인사 VIEW 연동 데몬 구현_crontab)
+
+\- 웹 메일 2차 인증 정책 예외 관리 페이지 구현
+
+\- 인증 서버 정책 관리 페이지 구현
+
+\- 앱 등록 사용자 조회 페이지 구현
+
+![mofa](image\mofa.jpg)
+
+•     **인증 솔루션 데모사이트**
+
+-수행역할(기여도): 개발(90%) 및 유지보수
+
+-사용기술:
+
+​	1) BackEnd : Spring Framework 3.2.8, java 1.7
+
+​	2) FrontEnd : Javascript
+
+-쇼핑몰, 은행관련 사이트 UI 유지보수
+
+-인증 서버 연동
+
+-인증 서버 Rest API call에 따른 Polling 처리 
+
+-인증 결과에 따른 화면 전환
+
+![데모사이트](image\데모사이트.JPG)
 
 
 
@@ -185,86 +289,6 @@
 
 
 
-
-
-•     **서명수집분석시스템**
-
-​	-수행역할(기여도): 개발 및 서버 구축(70%)
-
-​	-사용기술: 
-
-​	 	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8
-
-​	 	2) Front End: Html, javascript, jQuery, Bootstrap
-
-​	 	3) DB: mysql
-
-​	-앱/태블릿 서명 로그 수집 restful API 구현
-
-​	-서명 데이터 배속 조절, 반복 재생 기능 구현(HTML5 Canvas)
-
-​	-서명 딥러닝 학습을 위한 데이터 셋 DB 스키마 설계 
-
-​	-서명 수집 프로파일 관리 기능 구현(CRUD)
-
-​	-서명 길이, 시간, 획수 조회 기능 구현(서명raw데이터)
-
-
-
-•    **조달정보시스템 노후장비 교체 및 운영환경 개선사업** 
- (스마트 나라장터 인증 강화를 위한 수기서명 SW도입)
-
-\-   수행역할(기여도): 개발 및 서버 구축(70%)
-
-\-   기간: 2018.01 ~ 현재
-
-\- 사용기술:
-
-​	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8
-
-​	2) Front End: jQuery, Bootstrap
-
-​	3) DB: mysql
-
-\- 인증 로그 수집 restful API 구현
-
-\- 인증 로그 통계 페이지 대시보드 구현
-
-\- 등록 사용자 조회 페이지 구현(CRUD)
-
-\- 인증 로그 조회 및 검색 페이지 구현
-
-\- WAS(Tomcat) 서버 구축 및 웹 서버(Iplanet) 연동 (RedHat환경)      
-
-
-
-•    **외교부 웹메일 시스템 2차 인층체계 구축 사업 참여**
-
-\-   수행역할(기여도): 개발 및 구축(40%)
-
-\-   기간: 2017.07 ~ 현재
-
-\- 사용기술:
-
-​	1) BackEnd: JAVA 1.7, Spring Framework 3.2.8
-
-​	2) Front End: jQuery, Bootstrap
-
-​	3) DB: mysql 
-
-\- 인증 로그 조회 페이지 구현
-
-\- 외교부 인사 VIEW를 통한 조직, 사용자 조회 페이지 구현
- (외교부 인사 VIEW 연동 데몬 구현_crontab)
-
-\- 웹 메일 2차 인증 정책 예외 관리 페이지 구현
-
-\- 인증 서버 정책 관리 페이지 구현
-
-\- 앱 등록 사용자 조회 페이지 구현
-
- 
-
 **응용보안팀 (2016.07 - 2016.08)** *대학원 시절 인턴으로 근무
 
 •     **Spring Framework** **세미나**
@@ -321,7 +345,31 @@
 
 \- R 언어 호환 Java 라이브러리 구현(.jar 파일 생성)
 
- 
+![rJava_라이브러리](image\rJava_라이브러리.jpg)
+
+**회귀분석을 이용한 웹 로그 데이터 이상치 탐지 시스템**
+
+\- 수행역할(기여도): 연구 및 개발(90%)
+
+-사용기술:
+
+  1) BackEnd : Java, R, rJava, Logstash
+
+  2) FrontEnd : Javascript, Highcharts
+
+  3) Storage: ElasticSearch
+
+-elasticsearch 구축
+
+-시각화 라이브러리 연구 
+
+-R언어 학습(이상치 분석)
+
+-logstash 플러그인 연동
+
+![이상치 탐지](image\이상치 탐지.JPG)
+
+
 
 •     **R언어 통계 기능 세미나**
 
