@@ -178,7 +178,7 @@
 
 \- WAS(Tomcat) 서버 구축 및 웹 서버(Iplanet) 연동 (RedHat환경)      
 
-![pps](image\pps.jpg)
+![pps](image/pps.jpg)
 
 •    **외교부 웹메일 시스템 2차 인층체계 구축 사업 참여**
 
@@ -205,7 +205,7 @@
 
 \- 앱 등록 사용자 조회 페이지 구현
 
-![mofa](image\mofa.jpg)
+![mofa](image/mofa.jpg)
 
 •     **인증 솔루션 데모사이트**
 
@@ -225,7 +225,7 @@
 
 -인증 결과에 따른 화면 전환
 
-![데모사이트](image\데모사이트.JPG)
+![데모사이트](image/데모사이트.JPG)
 
 
 
@@ -345,7 +345,7 @@
 
 \- R 언어 호환 Java 라이브러리 구현(.jar 파일 생성)
 
-![rJava_라이브러리](image\rJava_라이브러리.jpg)
+![rJava_라이브러리](image/rJava_라이브러리.jpg)
 
 **회귀분석을 이용한 웹 로그 데이터 이상치 탐지 시스템**
 
@@ -367,7 +367,7 @@
 
 -logstash 플러그인 연동
 
-![이상치 탐지](image\이상치 탐지.JPG)
+![이상치 탐지](image/이상치 탐지.JPG)
 
 
 
