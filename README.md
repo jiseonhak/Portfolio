@@ -11,11 +11,11 @@
   -수행역할 : 아이디어 제안, 설계, 개발
 
   -사용기술 : 
-	1) BackEnd : Spring Boot 2.1.7, Java 1.8
-  	2) Front End : Vue.js, Vuetify
-	3) DB : firebase firestore
-  	4) library : selenium
-	5) Server Env : GCP(GoogleCloudPlatform)
+  ​	1) BackEnd : Spring Boot 2.1.7, Java 1.8
+  ​	2) Front End : Vue.js, Vuetify
+  ​	3) DB : firebase firestore
+  ​	4) library : selenium
+  ​	5) Server Env : GCP(GoogleCloudPlatform)
 
 -selenium을 이용한 브랜드 별 홈페이지 가격정보 크롤링
 
