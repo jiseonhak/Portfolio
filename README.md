@@ -7,15 +7,18 @@
 ---
 
 - **Vue.js를 이용한 웹앱 버거버거(BurgerBurger)**
-
-  -수행역할 : 아이디어 제안, 설계, 개발
-
-  -사용기술 : 
-  ​	1) BackEnd : Spring Boot 2.1.7, Java 1.8
-  ​	2) Front End : Vue.js, Vuetify
-  ​	3) DB : firebase firestore
-  ​	4) library : selenium
-  ​	5) Server Env : GCP(GoogleCloudPlatform)
+-수행역할 : 아이디어 제안, 설계, 개발
+  
+-사용기술 : 
+  ​  1) BackEnd : Spring Boot 2.1.7, Java 1.8
+  
+    2) Front End : Vue.js, Vuetify
+  
+    3) DB : firebase firestore
+  
+    4) library : selenium
+  
+    5) Server Env : GCP(GoogleCloudPlatform)
 
 -selenium을 이용한 브랜드 별 홈페이지 가격정보 크롤링
 
@@ -367,7 +370,7 @@
 
 -logstash 플러그인 연동
 
-![이상치 탐지](image/이상치 탐지.JPG)
+![anomaly_detection](image/anomaly_detection.JPG)
 
 
 
