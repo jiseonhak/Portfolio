@@ -28,16 +28,11 @@
 
 -투표 상세 조회 API 구현
 
-![image-20200416235222159](image\what2eat-vote_list.png)
+<img src="image\what2eat-vote_list.png" alt="vote_list" style="zoom: 50%;" />
 
+<img src="image\what2eat-vote_creat.png" alt="vote_list" style="zoom: 50%;" />
 
-
-![image-20200416235053256](image\what2eat-vote_creat.png)
-
-![image-20200416235354425](image\what2eat-restaurant_detail.png)
-
-
-
+<img src="image\what2eat-restaurant_detail.png" alt="vote_list" style="zoom: 50%;" />
 
 
 
