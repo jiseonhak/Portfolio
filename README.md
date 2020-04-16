@@ -6,6 +6,42 @@
 
 ---
 
+- **맛집 투표 하이브리드 앱(what2eat)**
+
+-수행역할 : 아디디어 제안, BackEnd 개발
+
+-사용기술 : 
+
+1) BackEnd : aws lambda, node.js, typescript
+
+2) Front End : Ionic, react
+
+3) DB : MongoDB
+
+4) library : serverless framework
+
+5) Server Env : AWS
+
+-구글 맵 API를 이용한 내 위치 주변 음식점 검색 기능 API 구현
+
+-음식점 상세정보 조회 API 구현
+
+-투표 상세 조회 API 구현
+
+![image-20200416235222159](C:\Users\ji\Desktop\GITHUB\Portfolio\image\what2eat-vote_list.png)
+
+
+
+![image-20200416235053256](C:\Users\ji\Desktop\GITHUB\Portfolio\image\what2eat-vote_creat.png)
+
+![image-20200416235354425](C:\Users\ji\Desktop\GITHUB\Portfolio\image\what2eat-restaurant_detail.png)
+
+
+
+
+
+
+
 - **Vue.js를 이용한 웹앱 버거버거(BurgerBurger)**
 
 -수행역할 : 아이디어 제안, 설계, 개발
